@@ -6,4 +6,4 @@ Interested in plants, agriculture and atmosphere
 
 Loves to climb and travel!
 
-![](/WhatsApp Image 2024-04-11 at 17.31.32.jpeg=100X100)
+![](/WhatsApp Image 2024-04-11 at 17.31.32.jpeg = 250X250)
