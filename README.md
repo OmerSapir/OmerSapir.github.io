@@ -1,9 +1,9 @@
 # OmerSapir.github.io
 
-Hello! I'm Omer Sapir, a master's student at the Weizmann Institute, in the Department of Earth and Planetary Sciences.
+* Hello! I'm Omer Sapir, a master's student at the Weizmann Institute, in the Department of Earth and Planetary Sciences.
 
-Interested in plants, agriculture and atmosphere
+* Interested in Plants, Agriculture and Atmosphere
 
-Loves to climb and travel!
+* Loves to climb and travel!
 
 ![](/WhatsApp Image 2024-04-11 at 17.31.32.jpeg)
