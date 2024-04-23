@@ -14,5 +14,7 @@ Link to my solutions repository in Python course : [Python-course-assignments](h
 
 Some of my class mates:
 [Maher Salhab](https://mahers7.github.io/)
+
 [Roi Siegelman] (https://roisiegelman.github.io/)
+
 [Noy Ravensary](https://noyravensary.github.io/)
