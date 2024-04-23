@@ -7,7 +7,7 @@
 
 * Loves to climb and travel!
 
-  <img src="me.jpeg" width="250" height="250">
+  <img src="me.jpeg" width="250" height="300">
 
 Link to my solutions repository in Python course : [Python-course-assignments](https://github.com/OmerSapir/Python-course-assignments)
 
