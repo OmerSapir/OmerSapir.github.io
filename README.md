@@ -7,14 +7,15 @@
 
 * Loves to climb and travel!
 
-![](/WhatsApp Image 2024-04-11 at 17.31.32.jpeg)
+<img src="me.jpeg" alt="Your Avatar" style="width:200px;height:250px;">
 
 
 Link to my solutions repository in Python course : [Python-course-assignments](https://github.com/OmerSapir/Python-course-assignments)
 
 Some of my class mates:
+
 [Maher Salhab](https://mahers7.github.io/)
 
-[Roi Siegelman] (https://roisiegelman.github.io/)
+[Roi Siegelman](https://roisiegelman.github.io/)
 
 [Noy Ravensary](https://noyravensary.github.io/)
