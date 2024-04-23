@@ -7,7 +7,7 @@
 
 * Loves to climb and travel!
 
-  ![](https://github.com/OmerSapir/OmerSapir.github.io/blob/main/me.jpeg| width=100)
+  <img src="me.jpeg" width="100" height="100">
 
 
 Link to my solutions repository in Python course : [Python-course-assignments](https://github.com/OmerSapir/Python-course-assignments)
