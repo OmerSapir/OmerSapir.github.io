@@ -7,8 +7,6 @@
 
 * Loves to climb and travel!
 
-<img src="me.jpeg" alt="Your Avatar" style="width:200px;height:250px;">
-
 
 Link to my solutions repository in Python course : [Python-course-assignments](https://github.com/OmerSapir/Python-course-assignments)
 
